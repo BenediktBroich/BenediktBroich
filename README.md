@@ -1,6 +1,6 @@
 ### Emacs 💻
- - Run `M-x url-handler-mode'
- - Run `C-x C-f https://benediktbroich.github.io/blog/blog.txt'
+ - Run `M-x url-handler-mode`
+ - Run `C-x C-f https://benediktbroich.github.io/blog/blog.org`
 
 ### Projects
 - 🔭 I’m currently working on [nix flake tempates](https://github.com/BenediktBroich/templates) and getting packages to [MELPA](https://github.com/melpa/melpa/issues/7892).
